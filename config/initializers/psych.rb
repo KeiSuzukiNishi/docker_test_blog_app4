@@ -1,0 +1,1 @@
+# Psych.safe_load(yaml, aliases: true)

@@ -1,0 +1,19 @@
+# Ignore all files
+**
+
+# But include these files
+!Dockerfile
+!Gemfile
+!Gemfile.lock
+!entrypoint.sh
+!config/
+!app/
+!lib/
+!public/
+!bin/
+!db/
+!log/
+!package.json
+!postcss.config.js
+!babel.config.js
+!.browserslistrc
